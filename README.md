@@ -39,7 +39,6 @@ The task is to:
 4. **Output coefficients**  
    The final coefficients array is logged to the console.
 
----
 
-## 📂 File Structure
+
 
