@@ -1,9 +1,7 @@
 # hashira-assignment
 
 
-# Polynomial Coefficient Generator
-
-This project computes the coefficients of a polynomial given its roots in different bases.  
+This code computes the coefficients of a polynomial given its roots in different bases.  
 The input is provided in **JSON format**, where each root is represented by its base and value.
 
 ---
